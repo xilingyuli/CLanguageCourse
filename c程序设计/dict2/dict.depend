@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1415805311 source:g:\作业任务\c程序设计\电子词典\dict\main.c
+	<stdio.h>
+	<string.h>
+	"list.h"
+	"word.h"
+
+1415800907 source:g:\作业任务\c程序设计\电子词典\程序\list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"word.h"
+	"tool.h"
+
+1415803530 g:\作业任务\c程序设计\电子词典\程序\word.h
+
+1415785076 g:\作业任务\c程序设计\电子词典\程序\tool.h
+
+1415801175 source:g:\作业任务\c程序设计\电子词典\程序\main.c
+	<stdio.h>
+	<string.h>
+	"list.h"
+	"word.h"
+
+1415801573 g:\作业任务\c程序设计\电子词典\程序\list.h
+	"word.h"
+	"tool.h"
+
+1415800756 source:g:\作业任务\c程序设计\电子词典\程序\tool.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
+1415805448 source:g:\作业任务\c程序设计\电子词典\dict\list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"word.h"
+	"tool.h"
+
+1415803530 g:\作业任务\c程序设计\电子词典\dict\word.h
+
+1415785076 g:\作业任务\c程序设计\电子词典\dict\tool.h
+
+1415801573 g:\作业任务\c程序设计\电子词典\dict\list.h
+	"word.h"
+	"tool.h"
+
+1415800756 source:g:\作业任务\c程序设计\电子词典\dict\tool.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
+1416293062 source:g:\作业任务\c程序设计\dict\list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"word.h"
+	"tool.h"
+
+1415803530 g:\作业任务\c程序设计\dict\word.h
+
+1416237398 g:\作业任务\c程序设计\dict\tool.h
+
+1416293560 source:g:\作业任务\c程序设计\dict\main.c
+	<stdio.h>
+	<string.h>
+	"list.h"
+	"word.h"
+
+1416293076 g:\作业任务\c程序设计\dict\list.h
+	"word.h"
+	"tool.h"
+
+1416237280 source:g:\作业任务\c程序设计\dict\tool.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
+1416312881 source:g:\作业任务\c程序设计\dict2\list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"word.h"
+	"tool.h"
+
+1415803530 g:\作业任务\c程序设计\dict2\word.h
+
+1416237398 g:\作业任务\c程序设计\dict2\tool.h
+
+1416293560 source:g:\作业任务\c程序设计\dict2\main.c
+	<stdio.h>
+	<string.h>
+	"list.h"
+	"word.h"
+
+1416293076 g:\作业任务\c程序设计\dict2\list.h
+	"word.h"
+	"tool.h"
+
+1416237280 source:g:\作业任务\c程序设计\dict2\tool.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
